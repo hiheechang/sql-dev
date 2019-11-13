@@ -6,16 +6,19 @@ mysql-ctl cli
 
 database Server <-- databases
 
-create and destroy
+### create and destroy
+
 - SHOW DATABASES;
 - CREATE DATABASE <name> ;
 - DROP DATABASE <name>;
 
-use
+### use
+
 - USE <name>;
 - SELECT database(); 
 
-tables
+### tables
+
 - data types : numeric(INT), string(VARCHAR), date
 
     CREATE TABLE <name-plural>(
