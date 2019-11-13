@@ -26,7 +26,7 @@ database Server <-- databases
         name VARCHAR(50),
         age INT
     );
-- SHOW TABLES; 
+- SHOW TABLES;
 - SHOW COLUMNS FROM <table_name>; DESC <table_name>;
 
 - DROP TABLE <table_name>;

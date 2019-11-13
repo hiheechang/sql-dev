@@ -6,6 +6,7 @@
 - SHOW WARNINGS; :: when show warnings after select, there might be no warning
 
 ## NULL
+
 how to not receive not null data
 
 CREATE TABLE test(
@@ -23,6 +24,7 @@ CREATE TABLE test(
 );
 
 ## KEY
+
 primary key : to make data unique in the table
 
 - AUTO INCREMENT :: don't need to specify everytime
