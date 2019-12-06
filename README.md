@@ -12,8 +12,9 @@
 | 9. Aggregate Functions |     |
 | 10. Data types         |     |
 | 11. Logical Operator   |     |
-| 12.                    |     |
-| 13.                    |     |
+| 12. One to Many        |     |
+| 13. Many to One        |     |
+|                        |     |
 | 14. IG clone           |     |
 | 15. IG exercise        |     |
 | 16. NodeJS             |     |
