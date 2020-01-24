@@ -16,3 +16,5 @@ SELECT <> FROM <table> LIMIT 5, 3; // 3 after 5
 
 ## LIKE
 WHERE author_fname LIKE '%da%';
+WHERE stock_quantity LIKE '____'; // four digits long
+WHERE author_fname LIKE '%\%%';
